@@ -2,7 +2,7 @@
 
 ## Intro
 Hello👋, I'm Brandon
-I am a Fullstack Mobile & Developer, UI/UX Designer, Junior data analyst, Cybersecurity enthusiast  
+I am a Fullstack Mobile & Developer, UI/UX Designer, Junior DevOps Engineer, Cybersecurity enthusiast  
 
 ## About
 What began as a simple curiosity to create a personal website has transformed into a lifelong passion for crafting innovative software solutions that address real-world challenges. Over the past four years, my insatiable curiosity and love for technology have driven me to explore and master diverse domains such as:
