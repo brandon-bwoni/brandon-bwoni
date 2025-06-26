@@ -1,39 +1,76 @@
 ![brandon-profile](https://github.com/brandon-bwoni/my-profile/assets/83072016/f011c606-495b-4a57-aabb-68bba4af2309)
 
-## Intro
-Hello👋, I'm Brandon
-I am a Fullstack Mobile & Developer, UI/UX Designer, Junior DevOps Engineer, Cybersecurity enthusiast  
+# 👋 Hello, I'm Brandon
 
-## About
-What began as a simple curiosity to create a personal website has transformed into a lifelong passion for crafting innovative software solutions that address real-world challenges. Over the past four years, my insatiable curiosity and love for technology have driven me to explore and master diverse domains such as:
+**Full-Stack Developer | AI Engineer | Building the Future of Intelligent Software**
 
-Web Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brandon-takura-bwoni-249a341b8) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)]([your-portfolio-url](https://takuradev.online/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bwonibrandon@gmail.com)
 
-Mobile Development
+---
 
-AI/ML
+## 🚀 About Me
 
-Web 3.0
+What started as curiosity about building a website has evolved into a **4-year journey** of crafting innovative software solutions that solve real-world problems. I'm passionate about the intersection of **full-stack development** and **artificial intelligence**, with a focus on building autonomous systems that enhance human productivity.
 
-UI/UX Design
+**My expertise spans:**
+- **Full-Stack Development**: React, Node.js, Python, TypeScript, PostgreSQL, MongoDB
+- **AI Engineering**: LLMs, Agentic AI, Machine Learning Pipelines, MLOps
+- **Mobile Development**: React Native, Flutter
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
+- **UI/UX Design**: Figma, Design Systems, User-Centered Design
 
-DevOps
+## 💼 Professional Journey
 
-Cybersecurity
+**Frontend → Backend → Full-Stack → AI Engineer**
 
-Starting my journey as a frontend developer, I gradually transitioned to backend development and eventually became a full-stack developer. Inspired by beautiful designs, I also ventured into UI/UX design, blending creativity with technical expertise to deliver exceptional user experiences. Recently, my focus has shifted to studying DevOps and Cybersecurity, and I’m excited to further refine my skills and pursue mastery in these field.
+Starting as a frontend developer, I naturally progressed through the full development stack, driven by my desire to understand how beautiful interfaces connect with robust backend systems. My recent focus has shifted toward **AI Engineering**, where I build intelligent, autonomous systems that minimize human intervention while maximizing efficiency.
 
-Learning across these domains has been nothing short of exhilarating, and I’m committed to continuing this journey of growth and exploration. As I build and learn, I’m always eager to connect with fellow developers and collaborators to exchange ideas, share knowledge, and create amazing solutions together.
+## 🔥 What I'm Currently Building
 
-## Currenctly
-##### 🚀 Working on a couple of exciting projects 
-##### 🔝 Leveling up on DevOps & Cybersecurity
-##### 🔐 Focused on growing my career in every way possible
-##### 🌱 Looking forward to lauch my first startup 🔜
+- **🤖 AI-Powered Automation Platform**: Developing agentic AI systems for business process automation
+- **📱 Mobile-First SaaS Application**: Full-stack solution with React Native and Node.js
 
-## Outro ✌
-If you come across my profile, or want us to collaborate on a project, or need my help in any of my areas of expertise - feel free to contact me. I will get back at you as soon as possible😊.
+## 🎯 Current Focus
 
+```
+🚀 AI Engineering & MLOps
+📈 Scaling production ML systems
+🏗️ DevOps & Infrastructure automation
+💡 Preparing to launch my first startup
+```
+
+## 📊 GitHub Stats
+
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandon-bwoni&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-bwoni&layout=compact&theme=radical)
+
+## 🛠️ Tech Stack
+
+**Languages**: JavaScript, TypeScript, Python, SQL, Dart  
+**Frontend**: React, Next.js, Flutter, React Native  
+**Backend**: Node.js, Express, FastAPI, PostgreSQL, MongoDB, Pinecone  
+**AI/ML**: Langchain, Langgraph, LlamaIndex, OpenAI API   
+**Cloud**: AWS, Docker, Kubernetes, Terraform  
+**Tools**: Git, VS Code, Figma, Postman
+
+
+## 🎓 Learning Philosophy
+
+I believe in **learning by building**. Every project teaches me something new, whether it's a cutting-edge AI framework, a cloud architecture pattern, or a user experience principle. I'm constantly exploring emerging technologies and finding ways to apply them to solve meaningful problems.
+
+## 🤝 Let's Connect
+
+I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to:
+- Collaborate on an exciting project
+- Discuss the latest in AI and full-stack development
+- Explore potential partnerships or opportunities
+- Simply chat about technology and innovation
+
+**Reach out anytime!** I typically respond within 24 hours.
+
+---
+
+*"Building software that makes a difference, one commit at a time."*
 
 
 
