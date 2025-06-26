@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | AI Engineer | Building the Future of Intelligent Software**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brandon-takura-bwoni-249a341b8) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)]([your-portfolio-url](https://takuradev.online/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bwonibrandon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brandon-takura-bwoni-249a341b8) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://takuradev.online/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bwonibrandon@gmail.com)
 
 ---
 
