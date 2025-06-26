@@ -39,11 +39,6 @@ Starting as a frontend developer, I naturally progressed through the full develo
 💡 Preparing to launch my first startup
 ```
 
-## 📊 GitHub Stats
-
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandon-bwoni&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-bwoni&layout=compact&theme=radical)
-
 ## 🛠️ Tech Stack
 
 **Languages**: JavaScript, TypeScript, Python, SQL, Dart  
