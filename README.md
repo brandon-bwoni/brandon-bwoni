@@ -1,5 +1,3 @@
-![brandon-profile](https://github.com/brandon-bwoni/my-profile/assets/83072016/f011c606-495b-4a57-aabb-68bba4af2309)
-
 # 👋 Hello, I'm Brandon
 
 **Full-Stack Developer | AI Engineer | Building the Future of Intelligent Software**
@@ -14,8 +12,8 @@ What started as curiosity about building a website has evolved into a **4-year j
 
 **My expertise spans:**
 - **Full-Stack Development**: React, Node.js, Python, TypeScript, PostgreSQL, MongoDB
-- **AI Engineering**: LLMs, Agentic AI, Machine Learning Pipelines, MLOps
-- **Mobile Development**: React Native, Flutter
+- **AI Engineering**: Machine Learning, Generative AI, Automation and Agents, MLOps
+- **Mobile Development**: React Native
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
 - **UI/UX Design**: Figma, Design Systems, User-Centered Design
 
