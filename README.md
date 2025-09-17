@@ -12,9 +12,10 @@ What started as curiosity about building a website has evolved into a **4-year j
 
 **My expertise spans:**
 - **Full-Stack Development**: React, Node.js, Python, TypeScript, PostgreSQL, MongoDB
-- **AI Engineering**: Machine Learning, Generative AI, Automation and Agents, MLOps
+- **AI Engineering**: Machine Learning, Generative AI, Automation and Agents
+- **Data Analysis**: Pandas, Numpy, Matplotlib, Sciki-learn, Seaborn
 - **Mobile Development**: React Native
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
+- **Cloud & DevOps**: AWS, Docker, Render, Github Actions, CI/CS
 - **UI/UX Design**: Figma, Design Systems, User-Centered Design
 
 ## 💼 Professional Journey
