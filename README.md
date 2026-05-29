@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Brandon
 
-**Full-Stack Developer | AI Engineer | Building the Future of Intelligent Software**
+**Full-Stack Developer | Solutions Architect | AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brandon-takura-bwoni-249a341b8) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://takuradev.online/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bwonibrandon@gmail.com)
 
@@ -20,14 +20,10 @@ What started as curiosity about building a website has evolved into a **4-year j
 
 ## 💼 Professional Journey
 
-**Frontend → Backend → Full-Stack → AI Engineer**
+**Frontend → Backend → Full-Stack → AI Engineer → Solutions Architect**
 
 Starting as a frontend developer, I naturally progressed through the full development stack, driven by my desire to understand how beautiful interfaces connect with robust backend systems. My recent focus has shifted toward **AI Engineering**, where I build intelligent, autonomous systems that minimize human intervention while maximizing efficiency.
 
-## 🔥 What I'm Currently Building
-
-- **🤖 AI-Powered Automation Platform**: Developing agentic AI systems for business process automation
-- **📱 Mobile-First SaaS Application**: Full-stack solution with React Native and Node.js
 
 ## 🎯 Current Focus
 
