@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Brandon
+# Hello, I'm Brandon
 
 **Full-Stack Developer | Solutions Architect | AI Engineer**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 What started as curiosity about building a website has evolved into a **4-year journey** of crafting innovative software solutions that solve real-world problems. I'm passionate about the intersection of **full-stack development** and **artificial intelligence**, with a focus on building autonomous systems that enhance human productivity.
 
@@ -18,23 +18,23 @@ What started as curiosity about building a website has evolved into a **4-year j
 - **Cloud & DevOps**: AWS, Docker, Render, Github Actions, CI/CS
 - **UI/UX Design**: Figma, Design Systems, User-Centered Design
 
-## 💼 Professional Journey
+## Professional Journey
 
 **Frontend → Backend → Full-Stack → AI Engineer → Solutions Architect**
 
 Starting as a frontend developer, I naturally progressed through the full development stack, driven by my desire to understand how beautiful interfaces connect with robust backend systems. My recent focus has shifted toward **AI Engineering**, where I build intelligent, autonomous systems that minimize human intervention while maximizing efficiency.
 
 
-## 🎯 Current Focus
+## Current Focus
 
 ```
-🚀 AI Engineering & MLOps
-📈 Scaling production ML systems
-🏗️ DevOps & Infrastructure automation
-💡 Preparing to launch my first startup
+- AI Engineering & MLOps
+- Scaling production ML systems
+- DevOps & Infrastructure automation
+- Preparing to launch my first startup
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack & Tool
 
 **Languages**: JavaScript, TypeScript, Python, SQL, Dart  
 **Frontend**: React, Next.js, Flutter, React Native  
@@ -44,11 +44,11 @@ Starting as a frontend developer, I naturally progressed through the full develo
 **Tools**: Git, VS Code, Figma, Postman
 
 
-## 🎓 Learning Philosophy
+## Learning Philosophy
 
 I believe in **learning by building**. Every project teaches me something new, whether it's a cutting-edge AI framework, a cloud architecture pattern, or a user experience principle. I'm constantly exploring emerging technologies and finding ways to apply them to solve meaningful problems.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to:
 - Collaborate on an exciting project
