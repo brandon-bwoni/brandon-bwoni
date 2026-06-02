@@ -15,7 +15,7 @@ What started as curiosity about building a website has evolved into a **4-year j
 - **AI Engineering**: Machine Learning, Generative AI, Automation and Agents
 - **Data Analysis**: Pandas, Numpy, Matplotlib, Sciki-learn, Seaborn
 - **Mobile Development**: React Native
-- **Cloud & DevOps**: AWS, Docker, Render, Github Actions, CI/CS
+- **Cloud & DevOps**: AWS, Docker, Render, Github Actions, CI/CD
 - **UI/UX Design**: Figma, Design Systems, User-Centered Design
 
 ## Professional Journey
