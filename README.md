@@ -1,66 +1,89 @@
-# Hello, I'm Brandon
+<div align="center">
 
-**Full-Stack Developer | Solutions Architect | AI Engineer**
+# BRANDON TAKURA BWONI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brandon-takura-bwoni-249a341b8) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://takuradev.online/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bwonibrandon@gmail.com)
+<br />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ffbf00?style=flat-square&labelColor=0f1115&logo=linkedin&logoColor=f3f4f6)](https://www.linkedin.com/in/brandon-takura-bwoni-249a341b8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ffbf00?style=flat-square&labelColor=0f1115&logo=vercel&logoColor=f3f4f6)](https://takuradev.online/)
+[![Email](https://img.shields.io/badge/Email-Contact-ffbf00?style=flat-square&labelColor=0f1115&logo=gmail&logoColor=f3f4f6)](mailto:bwonibrandon@gmail.com)
 
-## About Me
+</div>
 
-What started as curiosity about building a website has evolved into a **4-year journey** of crafting innovative software solutions that solve real-world problems. I'm passionate about the intersection of **full-stack development** and **artificial intelligence**, with a focus on building autonomous systems that enhance human productivity.
+## About
 
-**My expertise spans:**
-- **Full-Stack Development**: React, Node.js, Python, TypeScript, PostgreSQL, MongoDB
-- **AI Engineering**: Machine Learning, Generative AI, Automation and Agents
-- **Data Analysis**: Pandas, Numpy, Matplotlib, Sciki-learn, Seaborn
-- **Mobile Development**: React Native
-- **Cloud & DevOps**: AWS, Docker, Render, Github Actions, CI/CD
-- **UI/UX Design**: Figma, Design Systems, User-Centered Design
+I am a systems-oriented software engineer with a full-stack foundation and a growing focus on **backend architecture, distributed systems, performance engineering, and low-latency computing**.
 
-## Professional Journey
+My journey began in frontend development, expanded into production full-stack systems, and is now moving deeper into the infrastructure beneath modern applications: concurrency, networking, data movement, observability, reliability, and system behaviour under load.
 
-**Frontend → Backend → Full-Stack → AI Engineer → Solutions Architect**
+I am also studying **Financial Engineering**, where I am developing the quantitative and market knowledge required to explore **financial systems, electronic markets, and high-performance trading infrastructure**.
 
-Starting as a frontend developer, I naturally progressed through the full development stack, driven by my desire to understand how beautiful interfaces connect with robust backend systems. My recent focus has shifted toward **AI Engineering**, where I build intelligent, autonomous systems that minimize human intervention while maximizing efficiency.
+## Current Direction
 
-
-## Current Focus
-
-```
-- AI Engineering & MLOps
-- Scaling production ML systems
-- DevOps & Infrastructure automation
-- Preparing to launch my first startup
+```text
+Systems engineering:        distributed, concurrent and low-latency software
+Financial computing:        market data, trading infrastructure and risk systems
+AI infrastructure:          reliable model serving, data pipelines and observability
+Benaya Labs:                high-impact digital products and engineering systems
 ```
 
-## Tech Stack & Tool
+## Selected Engineering Work
 
-**Languages**: JavaScript, TypeScript, Python, SQL, Dart  
-**Frontend**: React, Next.js, Flutter, React Native  
-**Backend**: Node.js, Express, FastAPI, PostgreSQL, MongoDB, Pinecone  
-**AI/ML**: Langchain, Langgraph, LlamaIndex, OpenAI API   
-**Cloud**: AWS, Docker, Kubernetes, Terraform  
-**Tools**: Git, VS Code, Figma, Postman
+| Project | Engineering focus |
+|---|---|
+| **Queue Core** | Reusable TypeScript job-processing package with broker-independent boundaries, retries, worker concurrency and dead-letter handling |
+| **Latency Lab** | Controlled experiments for tail latency, throughput, resource contention, concurrency and failure recovery |
+| **Distributed Rate Limiter** | Redis and Lua-based atomic rate limiting with burst control and load testing |
+| **Real-Time Event System** | WebSockets, Redis Pub/Sub and Streams, presence, ordering and horizontal scaling |
+| **ServiceOS** | Backend-first service orchestration platform with transactional booking, role boundaries, background processing and observability |
 
+## Benaya Labs
 
-## Learning Philosophy
+I am building **Benaya Labs**, a software studio focused on the intersection of:
 
-I believe in **learning by building**. Every project teaches me something new, whether it's a cutting-edge AI framework, a cloud architecture pattern, or a user experience principle. I'm constantly exploring emerging technologies and finding ways to apply them to solve meaningful problems.
+- dependable software systems;
+- thoughtful digital experiences;
+- intelligent and data-driven products;
+- engineering that creates measurable business value.
 
-## Let's Connect
+The studio reflects a simple principle: a memorable product should be both **well engineered** and **well experienced**.
 
-I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to:
-- Collaborate on an exciting project
-- Discuss the latest in AI and full-stack development
-- Explore potential partnerships or opportunities
-- Simply chat about technology and innovation
+## Technical Focus
 
-**Reach out anytime!** I typically respond within 24 hours.
+**Core engineering**
 
----
+`TypeScript` · `JavaScript` · `Python` · `SQL` · `Node.js` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker`
 
-*"Building software that makes a difference, one commit at a time."*
+**Systems progression**
 
+`Go` · `Modern C++` · `Linux` · `Computer Networking` · `Distributed Systems` · `Concurrency` · `Performance Engineering`
 
+**Product and interface**
+
+`React` · `Next.js` · `React Native` · `Tailwind CSS` · `Figma`
+
+## Research Interests
+
+- Performance-aware distributed systems
+- Low-latency financial information processing
+- Reliable AI and ML infrastructure
+- Observability and self-adaptive systems
+- Event-driven and data-intensive architectures
+- Secure and resilient information systems
+
+## Engineering Principles
+
+- Design clear boundaries before adding complexity.
+- Measure latency, throughput, reliability and cost.
+- Treat failure handling and observability as product features.
+- Prefer depth, evidence and maintainability over unnecessary novelty.
+- Build systems that remain understandable as they grow.
+
+## Open To
+
+Research collaboration, systems-oriented software roles, quantitative technology opportunities, and product partnerships through **Benaya Labs**.
+
+<div align="center">
+
+**Building dependable systems for finance, intelligence and meaningful digital products.**
 
